@@ -5,7 +5,9 @@ __pycache__/
 
 xlFiles
 user.pkl
-
+xlFiles
+errors
+csvFiles
 # C extensions
 *.so
 
